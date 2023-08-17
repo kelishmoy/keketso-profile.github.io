@@ -1,2 +1,2 @@
-# keketso-profile.github.io
+# profile-card.github.io
 This is my profile card.
